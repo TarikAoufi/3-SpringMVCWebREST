@@ -8,4 +8,4 @@ Dans ce Demo, nous utilisons:
 	  SpringRESTClient (le main: Runtime)
   - Un package exception, qui contient la classe PersonneNotFoundException, pour gérer les exceptions  générées par REST
 	  et le message à afficher lors de ce traitement dans le package dto: Class JsonError.
-  - Test unitaire de la couche service.
+  - Un test unitaire de la couche service.
