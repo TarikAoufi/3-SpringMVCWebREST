@@ -1,5 +1,5 @@
 # 3-SpringWebMVCRest
-Maven + Spring-webmvc + Spring-data-jpa + Spring-test + JUnit + REST
+Maven + Spring MVC+ Spring Data JPA + Spring Test + REST + Hibernate + JUnit + MySQL
 
 Dans ce Demo, nous utilisons:
   - Spring-webmvc
